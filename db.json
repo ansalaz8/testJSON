@@ -1,15 +1,9 @@
 [
    {
       "id":"10001",
-      "stdId":"",
       "name":"Test Course",
       "description":"When you complete this lesson, you will be familiar with some of the requirements of employers and employees for reducing risk and avoiding injury, illness, and death by properly selecting, using, and maintaining personal protective equipment (PPE).",
-      "img":"https://cdn6.f-cdn.com/contestentries/1162950/18299824/59ef996d1981d_thumb900.jpg",
       "source":"https://www.mtscontent.com/aicc/AICC_Courses/martech/100-01/au.htm?LMS_LISTENER=https://www.mtscontent.com/aicc/StoreAiccData.aspx&startfile=martech/100-01/au.htm&Course_ID=MAR100-01&Client_ID=147",
-      "sessionId":"",
-      "completed":"",
-      "success":"unknown",
-      "score":100,
-      "timeSpent":0.0
+      "sessionId":""
    }
 ]
