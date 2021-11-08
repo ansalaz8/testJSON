@@ -22,7 +22,7 @@
 			"sessionId": "",
 			"completed": "",
 			"success": "unknown",
-			"score": 45,
+			"score": 0,
 			"timeSpent": 0.0
 		},
 		{
@@ -35,7 +35,7 @@
 			"sessionId": "",
 			"completed": "",
 			"success": "unknown",
-			"score": 70,
+			"score": 0,
 			"timeSpent": 0.0
 		}
 	]
